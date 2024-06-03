@@ -431,4 +431,15 @@ ul .fa-xmark{
     .box_3 h2{
         font-size: 20px;
     }
+    .header .logo img{
+        width: 30px;
+    }
+    .container_one .box_2{
+        width: 50%;
+        height: 30vh;
+    }
+    .container_one .box_3{
+        width: 50%;
+        height: 35vh;
+    }
 }
