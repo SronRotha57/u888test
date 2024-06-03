@@ -257,6 +257,7 @@ ul .fa-xmark{
 @media screen and (max-width:1200px){
      .navbar ul {
         position: absolute;
+        z-index: 1;
         top:-600px;
         background:white;
         flex-direction: column;
@@ -393,16 +394,19 @@ ul .fa-xmark{
         height: 95vh;
      }
 }
-@media screen and (max-width:480px){
+@media screen and (min-width:300px){
     .navbar .logo img{
         width: 40%;
         object-fit: cover;
     }
     .navbar .btn{
         font-size: 10px;
+        position: absolute;
+        top: 20;
+        right: 0;
     }
     .btn .fa-bars{
-        font-size: 20px;
+        font-size: 25px;
     }
     .small_box2 .pic1{
         width: 100%;
