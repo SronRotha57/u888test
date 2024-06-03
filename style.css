@@ -423,7 +423,7 @@ ul .fa-xmark{
         margin-top: 70px;
     }
     .container_one{
-        height: 120vh;
+        height: 140vh;
     }
     .box_2 h2{
         font-size: 20px;
@@ -438,11 +438,13 @@ ul .fa-xmark{
         width: 100%;
         height: 20vh;
         text-align: center;
+        margin-bottom: 80px;
     }
     .container_one .box_3{
         width: 100%;
         height: 35vh;
         text-align: center;
+        margin-bottom: 80px;
     }
 .box_1{
        margin-bottom: 80px;
